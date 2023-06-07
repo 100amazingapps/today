@@ -112,7 +112,7 @@ dependencies:
   animated_text_kit: ^4.2.1
 
   # Webview flutter
-  webview_flutter: ^3.0.4
+  webview_flutter: ^4.0.5
 
   # Format date time
   intl: ^0.18.0
