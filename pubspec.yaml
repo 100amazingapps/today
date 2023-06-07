@@ -33,7 +33,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.4
   google_fonts: ^4.0.4
-  google_mobile_ads: ^0.3.3
+  google_mobile_ads: ^3.0.0
 
   # Appcheap.io build in dependencies
   ui:
