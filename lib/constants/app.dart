@@ -10,4 +10,4 @@ const String defaultLanguage = 'en';
 
 const List<String> languageSupport = ['en', 'ar', 'tr', 'id'];
 
-const String googleClientId = '222549274288-3msfhuaifhthoc4lina9i8bgg36igg7h.apps.googleusercontent.com';
+const String googleClientId = '381579276942-8rkb99mtm6djoi52b7re4ic4g3lte9a3.apps.googleusercontent.com';
