@@ -1,8 +1,8 @@
-const String baseUrl = 'https://studyloan.forexnews.trade/';
+const String baseUrl = 'https://guide.appsdownloadapk.com/';
 
-const String consumerKey = 'ck_abcd7d3e1a3ae8405541a067944aca85964c068c';
+const String consumerKey = 'ck_945b39c20576e361eeef8ba8d9962d0ff484826f';
 
-const String consumerSecret = 'cs_0a7cec94e334724dcea1010af332d3e78a650fb3';
+const String consumerSecret = 'cs_4faaf7876e931f0ea07f6cbb62db2bb849d21992';
 
 const String restPrefix = 'wp-json';
 
